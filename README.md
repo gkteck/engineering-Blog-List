@@ -28,3 +28,8 @@ Engineering Blog: Yelp Product --> http://engineeringblog.yelp.com/
 The Official Rackspace Blog --> http://www.rackspace.com/blog/
 
 AWS Blog - Amazon Web Services --> http://aws.amazon.com/blogs/aws/
+
+Dropbox tech blog --> https://tech.dropbox.com/
+
+Flickr developer blog --> http://code.flickr.net/
+
